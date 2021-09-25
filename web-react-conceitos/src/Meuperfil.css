@@ -1,0 +1,22 @@
+body{
+    margin-top: auto;
+}
+
+h2{
+    text-align:center;
+
+}
+
+p{
+    text-align: center;
+  
+}
+
+header{ 
+    border-style: solid;
+    border-color: black;
+    border-left: 5px;
+    border-width: 5px;
+    text-align: start;
+    
+}
