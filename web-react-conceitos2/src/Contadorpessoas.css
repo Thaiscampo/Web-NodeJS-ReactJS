@@ -1,0 +1,25 @@
+body{
+    border-style: solid;
+    width: 10cm;
+    height: 10cm;
+    
+}
+p{
+    color: rgb(46, 7, 153);
+     font-size: 1cm;
+}
+
+h1{
+    font-size: 50px;
+    border-style: solid;
+    width: 2cm;
+    
+}
+
+button
+{
+    font-size: 30px;
+    width: 6cm;
+    
+}
+
